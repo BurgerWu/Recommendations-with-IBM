@@ -26,3 +26,4 @@ In this part, we run SVD(sigular value decomposition) and adjust the amount of l
 to get optimal number of latent features.
 
 ### VI. Extras & Concluding
+Conclude this project
